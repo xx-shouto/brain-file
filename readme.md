@@ -98,6 +98,12 @@ python main.py
 
 ---
 
+## 共有方法
+
+config.jsonで設定したフォルダ(デフォルトでは/shared_files)にファイルを置いてmain.pyを実行すると共有されます。
+
+main.pyを実行
+---
 ## コマンド一覧
 
 | コマンド                                         | 説明                    |
@@ -149,4 +155,5 @@ example.txt downloaded to downloads/abcd1234_example.txt
 
 * 不特定多数とファイルを共有するため、個人情報や機密情報を含むファイルは絶対に置かないでください。
 * 違法コンテンツの共有は禁止されています。
+
 
