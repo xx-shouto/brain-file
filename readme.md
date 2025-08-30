@@ -123,7 +123,7 @@ python main.py
 1. 検索でファイルの SHA1 を確認：
 
 ```text
-> /s sample
+> /s example
 Found:
  - example.txt SHA1=abcd1234 relay_nodes=[...]
 ```
@@ -149,3 +149,4 @@ example.txt downloaded to downloads/abcd1234_example.txt
 
 * 不特定多数とファイルを共有するため、個人情報や機密情報を含むファイルは絶対に置かないでください。
 * 違法コンテンツの共有は禁止されています。
+
