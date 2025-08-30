@@ -1,0 +1,7 @@
+{
+    "port": 8470,
+    "files_dir": "shared_files",
+    "download_dir": "downloads",
+    "cache_file": "peer_cache.json"
+  }
+  
