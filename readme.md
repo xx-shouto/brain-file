@@ -2,6 +2,8 @@
 
 **Brain File** は、P2Pファイル共有を安全に行うためのPythonベースのアプリケーションです。  
 検索・匿名ダウンロード・ピアキャッシュ管理などの機能を備えています。
+<img width="835" height="347" alt="image" src="https://github.com/user-attachments/assets/228d5285-8ed4-40e8-b057-4746d1783a75" />
+<img width="852" height="459" alt="image" src="https://github.com/user-attachments/assets/c5b5c561-d868-4317-8681-adc3e46230a6" />
 
 ---
 
@@ -156,6 +158,7 @@ example.txt downloaded to downloads/abcd1234_example.txt
 
 * 不特定多数とファイルを共有するため、個人情報や機密情報を含むファイルは絶対に置かないでください。
 * 違法コンテンツの共有は禁止されています。
+
 
 
 
