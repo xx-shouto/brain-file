@@ -45,7 +45,12 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 ````
+---
 
+## GUIversion
+
+releaseからguiバージョンを7zかインストーラーをダウンロードできます。
+windows専用です。
 ---
 
 ## セットアップ方法
@@ -158,6 +163,7 @@ example.txt downloaded to downloads/abcd1234_example.txt
 
 * 不特定多数とファイルを共有するため、個人情報や機密情報を含むファイルは絶対に置かないでください。
 * 違法コンテンツの共有は禁止されています。
+
 
 
 
